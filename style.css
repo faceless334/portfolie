@@ -1,0 +1,16 @@
+body {
+    font-family: cursive;
+}
+
+header {
+    background-color: #530FAD;
+    height: 30px;
+    padding: 20px;
+  
+}
+
+header a {
+    text-decoration: none;
+    color: white;
+    
+}
